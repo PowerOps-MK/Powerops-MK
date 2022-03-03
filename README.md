@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with forging Dragonglass
 - 💬 Ask me about the Iron Throne
 - 📫 How to reach me: Send a raven
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am the 998th Lord Commander
