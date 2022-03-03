@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+-->
+
 - 🔭 I’m currently working on defeating the Knight King
 - 🌱 I’m currently learning riding dragons
 - 👯 I’m looking to collaborate on defeating White Walkers
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Send a raven
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am the 998th Lord Commander
--->
