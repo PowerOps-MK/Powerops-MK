@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 
-
-- 🔭 I’m currently working on defeating the Knight King
-- 🌱 I’m currently learning riding dragons
-- 👯 I’m looking to collaborate on defeating White Walkers
-- 🤔 I’m looking for help with forging Dragonglass
-- 💬 Ask me about the Iron Throne
-- 📫 How to reach me: Send a raven
-- ⚡ Fun fact: I am the 998th Lord Commander
-
 -->
+
+- 🔭 I’m currently working on keeping my pieces from falling off
+- 🌱 I’m currently learning new wisecracking comments
+- 👯 I’m looking to collaborate on finding a new hat piece
+- 🤔 I’m looking for help with finding my left ear 
+- 📫 How to reach me: Send a letter to Andy's house
+- ⚡ Fun fact: I ran for mayor in 1985
+
+
