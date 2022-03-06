@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
--->
 
 - 🔭 I’m currently working on defeating the Knight King
 - 🌱 I’m currently learning riding dragons
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about the Iron Throne
 - 📫 How to reach me: Send a raven
 - ⚡ Fun fact: I am the 998th Lord Commander
+
+-->
