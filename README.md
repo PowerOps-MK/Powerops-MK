@@ -10,4 +10,4 @@ Currently working on keeping my pieces from falling off
 ### My open source repos 🧑‍💻
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerOps-MK&repo=Coding&theme=radical)](https://github.com/PowerOps-MK/Coding)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techno-tim&repo=techno-tim.github.io&theme=radical)](https://github.com/techno-tim/techno-tim.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerOps-MK&repo=Learning&theme=radical)](https://github.com/PowerOps-MK/Learning)
