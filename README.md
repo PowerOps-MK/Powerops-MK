@@ -8,12 +8,10 @@ Currently working on keeping my pieces from falling off
 - ⚡ Fun fact: I ran for mayor in 1985
 
 ### My public repos 🧑‍💻
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerOps-MK&repo=Coding&theme=radical)](https://github.com/PowerOps-MK/Coding)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerOps-MK&repo=Learning&theme=radical)](https://github.com/PowerOps-MK/Learning)
 
 ### My stats 
-
 [![Top Talen](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerOps-MK&layout=compact&theme=radical)](https://github.com/PowerOps-MK)
-
+[![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=PowerOps-MK&show_icons=true&count_private=true&theme=radical)](https://github.com/PowerOps-MK)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PowerOps-MK&theme=dark&count_private=true&theme=radical)](https://github.com/PowerOps-MK)
