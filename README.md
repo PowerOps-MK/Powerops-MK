@@ -1,4 +1,4 @@
-<img src="Assets/banner.svg"></img>
+<img src="Assets/D673F484-E647-4827-92CB-E142B939E4D6.gif"></img>
 
 ### Hi there 👋
 
