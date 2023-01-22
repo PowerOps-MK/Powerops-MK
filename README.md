@@ -1,4 +1,4 @@
-<img src="Assets/D673F484-E647-4827-92CB-E142B939E4D6.gif"></img>
+<img src="Assets/BEC90176-53F4-48CF-9306-24F8A6878CDD.gif"></img>
 
 ### Hi there 👋
 
