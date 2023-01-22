@@ -14,6 +14,7 @@
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="render" src="https://img.shields.io/badge/-Render-00CCBB?style=flat-square&logo=render&logoColor=white" />
   <img alt="c-sharp" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 </p>
 
 ### Hi there 👋
