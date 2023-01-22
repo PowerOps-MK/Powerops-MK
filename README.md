@@ -13,6 +13,7 @@
   <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="render" src="https://img.shields.io/badge/-Render-00CCBB?style=flat-square&logo=render&logoColor=white" />
+  <img alt="c-sharp" src="https://img.shields.io/badge/-C-sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 </p>
 
 ### Hi there 👋
