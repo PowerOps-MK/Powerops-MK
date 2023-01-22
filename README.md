@@ -6,6 +6,10 @@
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="c-sharp" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> 
   <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+  <img alt="html" src="https://img.shields.io/badge/-Html-F7DF1E?style=flat-square&logo=html&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-Css-239120?style=flat-square&logo=c-css&logoColor=white" /> 
+
   <img alt="python" src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white" />
   <img alt="powershell" src="https://img.shields.io/badge/-Powershell-46a2f1?style=flat-square&logo=powershell&logoColor=white" />  
   <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
