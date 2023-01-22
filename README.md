@@ -1,3 +1,5 @@
+<img src="Assets/banner.svg"></img>
+
 ### Hi there 👋
 
 Currently working on keeping my pieces from falling off
