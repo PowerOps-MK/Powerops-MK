@@ -5,12 +5,13 @@
   <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   
   <img alt="python" src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=python&logoColor=white" />
   <img alt="azure" src="https://img.shields.io/badge/-Azure-46a2f1?style=flat-square&logo=azure&logoColor=white" />
   <img alt="powershell" src="https://img.shields.io/badge/-Powershell-46a2f1?style=flat-square&logo=powershell&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=python&logoColor=white" />
-  <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-46a2f1?style=flat-square&logo=kubernetes&logoColor=white" />
+  
 </p>
 
 ### Hi there 👋
