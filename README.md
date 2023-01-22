@@ -12,7 +12,7 @@
   <img alt="azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft+azure&logoColor=white" />
   <img alt="powershell" src="https://img.shields.io/badge/-Powershell-46a2f1?style=flat-square&logo=powershell&logoColor=white" />
   <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F37626?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F37626?style=flat-square&logo=render&logoColor=white" />
 </p>
 
 ### Hi there 👋
