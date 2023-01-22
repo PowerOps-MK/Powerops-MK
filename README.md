@@ -9,7 +9,7 @@
   <img alt="ansible" src="https://img.shields.io/badge/-Ansible-DD0031?style=flat-square&logo=ansible&logoColor=white" />   
   <img alt="python" src="https://img.shields.io/badge/-Python-339933?style=flat-square&logo=python&logoColor=white" />
   <img alt="django" src="https://img.shields.io/badge/-Django-3776AB?style=flat-square&logo=django&logoColor=white" />
-  <img alt="azure" src="https://img.shields.io/badge/-Azure-46a2f1?style=flat-square&logo=microsoft+azure&logoColor=white" />
+  <img alt="azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft+azure&logoColor=white" />
   <img alt="powershell" src="https://img.shields.io/badge/-Powershell-46a2f1?style=flat-square&logo=powershell&logoColor=white" />
 </p>
 
