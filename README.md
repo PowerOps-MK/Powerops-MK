@@ -2,19 +2,19 @@
 
 <p>
   <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="django" src="https://img.shields.io/badge/-Django-3776AB?style=flat-square&logo=django&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="c-sharp" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> 
+  <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white" />
+  <img alt="powershell" src="https://img.shields.io/badge/-Powershell-46a2f1?style=flat-square&logo=powershell&logoColor=white" />  
   <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-181717?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="ansible" src="https://img.shields.io/badge/-Ansible-DD0031?style=flat-square&logo=ansible&logoColor=white" />   
-  <img alt="python" src="https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white" />
-  <img alt="django" src="https://img.shields.io/badge/-Django-3776AB?style=flat-square&logo=django&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-181717?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />    
   <img alt="azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft+azure&logoColor=white" />
-  <img alt="powershell" src="https://img.shields.io/badge/-Powershell-46a2f1?style=flat-square&logo=powershell&logoColor=white" />
-  <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="render" src="https://img.shields.io/badge/-Render-00CCBB?style=flat-square&logo=render&logoColor=white" />
-  <img alt="c-sharp" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img alt="nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="render" src="https://img.shields.io/badge/-Render-00CCBB?style=flat-square&logo=render&logoColor=white" />  
 </p>
 
 ### Hi there 👋
