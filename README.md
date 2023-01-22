@@ -13,6 +13,8 @@ Currently working on keeping my pieces from falling off
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerOps-MK&repo=Learning&theme=radical)](https://github.com/PowerOps-MK/Learning)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerOps-MK&repo=replace-action&theme=radical)](https://github.com/PowerOps-MK/Replace-action)
+
 ### My stats 🚀
 
 [![Top Talen](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerOps-MK&layout=compact&theme=radical)](https://github.com/PowerOps-MK)
