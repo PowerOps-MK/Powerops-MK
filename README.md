@@ -7,7 +7,7 @@
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   
-  <img alt="python" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=python&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/-Python-DD0031?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ### Hi there 👋
