@@ -30,6 +30,8 @@ Currently working on keeping my pieces from falling off
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerOps-MK&repo=Coding&theme=radical)](https://github.com/PowerOps-MK/Coding)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerOps-MK&repo=IaC&theme=radical)](https://github.com/PowerOps-MK/IaC)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerOps-MK&repo=Learning&theme=radical)](https://github.com/PowerOps-MK/Learning)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PowerOps-MK&repo=replace-action&theme=radical)](https://github.com/PowerOps-MK/Replace-action)
