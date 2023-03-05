@@ -1,7 +1,6 @@
 <img src="Assets/BEC90176-53F4-48CF-9306-24F8A6878CDD.gif"></img>
 
 <p>
-  Test
   <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="django" src="https://img.shields.io/badge/-Django-3776AB?style=flat-square&logo=django&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
