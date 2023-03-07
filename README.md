@@ -11,6 +11,7 @@
   <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="ansible" src="https://img.shields.io/badge/-Ansible-DD0031?style=flat-square&logo=ansible&logoColor=white" />   
+  <img alt="terraform" src="https://img.shields.io/badge/-Terraform-DD0031?style=flat-square&logo=terraform&logoColor=white" />   
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-181717?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />    
   <img alt="azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft+azure&logoColor=white" />
